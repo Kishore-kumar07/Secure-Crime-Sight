@@ -29,7 +29,7 @@ Secure Crime Sight is an innovative web application designed to enhance crime pr
 ### Setup
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/secure-crime-sight.git
+    git clone https://github.com/Kishore-kumar07/Secure-Crime-Sight.git
     ```
 2. Navigate to the project directory:
     ```bash
